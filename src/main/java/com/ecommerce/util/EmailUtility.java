@@ -13,10 +13,10 @@ import jakarta.mail.internet.MimeMessage;
 public class EmailUtility {
 
     private static final String EMAIL =
-            "ecommerce.mhg17@gmail.com";
+            "";
 
     private static final String APP_PASSWORD =
-            "yiqh qgrc rilj qzgi";
+            "";
 
     public static boolean sendOTP(
             String receiverEmail,
